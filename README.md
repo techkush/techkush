@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Decosoft.
+- 🔭 I’m currently working on Tapsy.
 - 🌱 I’m currently learning AI.
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with x
